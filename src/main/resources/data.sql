@@ -1,0 +1,1 @@
+insert into employees(first_name, last_name, email, age) values("fs", "ls", "g@gmail.com", 22);
